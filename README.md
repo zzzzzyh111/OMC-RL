@@ -26,11 +26,12 @@ This repository contains the code and resources for our paper **"Oracle-Guided M
 
 ## 📅 Timeline
 
-| Stage              | Status         |
-|--------------------|----------------|
-| Paper submission   | ✅ Submitted    |
-| Peer review        | ⏳ In progress  |
-| Code release       | 🔒 Coming soon |
+| Stage              | Status / Note        |
+|--------------------|----------------------|
+| Paper submission   | 📄 Submitted in *October 2025* |
+| Peer review        | ⏳ Currently under review |
+| Code release       | 🔓 Will be released once the first-round review results are positive |
+
 
 ## 🔒 Code Availability
 
