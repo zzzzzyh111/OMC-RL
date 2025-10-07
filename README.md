@@ -1,6 +1,6 @@
-# OMC-RL: Oracle-Guided Masked Contrastive Reinforcement Learning for Domain-Invariant UAV Visuomotor Policies
+# OMC-RL: Oracle-Guided Masked Contrastive Reinforcement Learning for Visuomotor Policies
 
-This repository contains the code and resources for our paper **"Oracle-Guided Contrastive Reinforcement Learning for Domain-Invariant UAV Visuomotor Policies"** (under review). We propose a novel two-stage framework for learning robust UAV visuomotor policies under severe domain shifts, combining masked contrastive learning and oracle-guided reinforcement learning.
+This repository contains the code and resources for our paper **"Oracle-Guided Masked Contrastive Reinforcement Learning for Visuomotor Policies"** (under review). We propose a novel two-stage framework for learning robust UAV visuomotor policies under severe domain shifts, combining masked contrastive learning and oracle-guided reinforcement learning.
 
 <p align="center">
   <img src="Assets/framework.jpg" width="100%" style="max-width: 800px;"/>
